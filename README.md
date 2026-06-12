@@ -3,6 +3,14 @@
 A polished, single-page marketing website (in English) for an IBS solution app.
 Pure static HTML/CSS/JS — no frameworks, no build step, no dependencies.
 
+**🌐 Live site: <https://zhaoweiyang.github.io/fodmap/>**
+
+## Deployment
+
+GitHub Pages serves the `gh-pages` branch. The workflow in
+`.github/workflows/deploy-pages.yml` re-publishes the site to `gh-pages`
+automatically on every push to the development branch.
+
 ## Preview
 
 Open `index.html` directly in a browser, or serve it locally:
